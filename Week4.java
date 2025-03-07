@@ -13,7 +13,7 @@ public class Week4 {
         Conde.display();
         DeBelen.display();
         Destajo.display();
-        Diaz.display();
+        //Diaz.display();
         Dionisio.display();
         Fabian.display();
         Jarap.display();
